@@ -1,6 +1,6 @@
 ## WeKan ® for DOS - Open Source kanban
 
-### Starting kanban
+### Starting wedos
 
 1. Download https://github.com/wekan/wedos/archive/refs/heads/main.zip
 2. `unzip main.zip`
