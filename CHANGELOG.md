@@ -1,3 +1,3 @@
 # ChangeLog
 
-# Upcoming WeKan (R) for DOS release
+# Upcoming WeKan ® for DOS release
