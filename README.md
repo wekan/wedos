@@ -15,6 +15,9 @@ Tested at FreeDOS running at VirtualBox.
 3. `cd wedos`
 4. `w`
 
+TODO: How to use FreeDOS version of echo command to not add newline, so text and count of boards to same line?
+It works in Bash, but not in FreeDOS.
+
 ### Starting Bash version
 
 Tested at Bash at Ubuntu 23.04. Works where Bash, Git and SQLite3 are available.
@@ -28,3 +31,4 @@ cd wedos
 
 ./w.sh
 ```
+
