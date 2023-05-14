@@ -15,7 +15,7 @@ ECHO 8) About
 ECHO 9) Quit
 ECHO.
 
-@choice /B /C:123456789 /N /S Select number:
+@choice /C:123456789 /N /S Select number:
 if errorlevel 9 goto QUIT
 if errorlevel 8 goto ABOUT
 if errorlevel 7 goto SETTINGS
